@@ -20,5 +20,8 @@
   "devDependencies": {
     "mocha": "^2.5.3",
     "zombie": "^3.0.15"
+  },
+  "dependencies": {
+    "winston": "^2.3.1"
   }
 }
